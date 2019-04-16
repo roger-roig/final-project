@@ -41,11 +41,13 @@
 * Teachers validation --NO CODE UNTIL HERE--
 
 *Monday morning*
-* Database schema.
+* Database schema validation.
+
+*Monday*
 * Data in the database.
 
 *Tuesday evening*
-* Analysis finished
+* Analysis validation.
 
 *Wednesday*
 * First rehearshall.
