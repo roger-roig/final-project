@@ -8,7 +8,7 @@
   * Give some insights about a topic of your choice giving some arguments by:
     * Being able to transmit the analysis in an ordered way.
     * Using the statistical/ML techniques learnt during the last weeks.
-    * Plotting the graphs in a useful way for the reader / listener. Yes, no additional rules Jordi.
+    * Plotting the graphs in a useful way for the reader / listener.
   * Present your analysis in two ways and for two different audiencies:
     * Technical audience: you will present a paper.
     * Jury: you will do a presentation.
@@ -27,6 +27,7 @@
 * A 10' presentation in the auditorium.
 * A 10' presentation for the jury.
 * Repository with your workflow + documentation + code. Even if you are working alone, you need to keep good practices!
+* Database.
 
 ## General schedule
 *Wednesday*
