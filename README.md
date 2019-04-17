@@ -24,8 +24,8 @@
 
 ## Deliverables
 * A notebook with your analysis in a paper way. Jupyter or Zeppelin are allowed.
-* A 10' presentation in the auditorium.
-* A 10' presentation for the jury.
+* A 5' presentation in the auditorium (+2 minutes of questions)
+* A 5' presentation for the jury (+5 minutes of questions)
 * Repository with your workflow + documentation + code. Even if you are working alone, you need to keep good practices!
 * Database.
 
@@ -58,6 +58,14 @@
 
 *Thursday evening*
 * Presentation!
+
+*Friday morning*
+* Jury's presentation --> they will select the two preferred.
+* We vote one of us to be the third one to go on Friday's evening presentation (HackShow).
+
+*Friday evening. HACKSHOW*
+* Auditorium presentation at 18:00
+* People select the winner of the HackShow.
 
 ## General advices
 * Organize yourself (don't get lost!). Respect the deadlines.
