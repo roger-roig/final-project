@@ -1,7 +1,8 @@
-[SPOTIPIE]
-[Roger Roig]
+# SPOTIPIE
 
-[BCN Data analytics Bootcamp February 2019]
+Roger Roig
+
+BCN Data analytics Bootcamp February 2019
 
 ### Overview
 
